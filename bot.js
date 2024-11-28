@@ -1,7 +1,7 @@
 const { Telegraf } = require("telegraf");
 
 // Your bot token from BotFather
-const BOT_TOKEN = "YOUR_NEW_BOT_TOKEN";
+const BOT_TOKEN = "7547765239:AAGpJwEvC_J5kSj_08C_bSoKmROKa7XHNWY";
 
 // URL of your mini app (must be HTTPS)
 const WEB_APP_URL = "https://hounsot.github.io/DeepFaceMiniApp/";
